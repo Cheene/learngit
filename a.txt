@@ -7,3 +7,5 @@ AAAAA
 BBBCC
 Created
 >>>>>>> feature1
+
+This is a bug But fixed
