@@ -8,5 +8,9 @@ BBBCC
 Created
 >>>>>>> feature1
 
+<<<<<<< Updated upstream
 This is a bug But fixed
 
+=======
+aaaaa
+>>>>>>> Stashed changes
