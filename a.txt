@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 AAABBBB
 VVVV
 Created
+=======
+AAAAA
+BBBCC
+Created
+>>>>>>> feature1
