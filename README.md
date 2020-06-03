@@ -15,3 +15,5 @@ HahHahHa
 
 
 Create New Information on branch of dev
+
+Createing a new branch is quick & simple
